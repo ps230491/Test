@@ -1,0 +1,24 @@
+{
+"id": 1,
+"Naam": "Mbappe",
+"Sponsor": "Nike",
+"ClubId": 1
+},
+{
+"id": 2,
+"Naam": "Kaka",
+"Sponsor": "Nike",
+"ClubId": 3
+},
+{
+"id": 3,
+"Naam": "Xavi",
+"Sponsor": "Puma",
+"ClubId": 4
+},
+{
+"id": 4,
+"Naam": "Pedri",
+"Sponsor": "Puma",
+"ClubId": 5
+}
